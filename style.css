@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f0f4f8;
+  background: #eb9bc0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -53,3 +53,4 @@ form button:hover {
   margin-top: 15px;
   font-weight: bold;
 }
+
